@@ -1,2 +1,2 @@
-# dvc_practical_101
+# DVC 101
 Data Versioning using DVC.
